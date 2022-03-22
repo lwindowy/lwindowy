@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwindowy
 - 👀 I’m interested in coding and AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on medical system with AI
 - 📫 How to reach me ...
 
 <!---
